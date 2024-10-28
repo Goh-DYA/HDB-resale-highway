@@ -49,5 +49,5 @@ Amid conflicting claims of noise pollution versus unblocked views (at high floor
 ![image](https://github.com/user-attachments/assets/9f4506be-45bf-4b3b-9b58-f5d4e93ac184)
 
 #### Insight 3: Proximity to expressways disproportionately affects resale prices of larger flats
-- For flats very close (< 50m) to an expressway, the marginal negative impact on resale price when being close to an expressway is much more pronounced for large flat types (eg. Executive or 5-Room) compared to a 3-room flat.
+- For flats very close (< 50m) to an expressway, the marginal negative impact on resale price when being close to an expressway is much more pronounced for large flat types (eg. Executive or 5-Room) compared to a 3-room flat.</br>
 ![image](https://github.com/user-attachments/assets/b1b7f612-1479-4cff-9abe-819d9266d6b4)
