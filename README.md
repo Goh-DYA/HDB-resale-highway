@@ -7,6 +7,9 @@
 
 ![image](https://github.com/user-attachments/assets/21d7c2b4-3968-4d12-85bc-9211dbe8b1bb)
 
+## Motivation
+Some forum posters have complained that the value of their HDB flats suffer because they are near expressways, which are very noisy. Others say expressway proximity is good, due to the unblocked view (at least for higher floors).
+
 ## Problem Statement
 Amid conflicting claims of noise pollution versus unblocked views (at high floors) by netizens, **does proximity to expressways have any influence on HDB Resale Prices**?
 
